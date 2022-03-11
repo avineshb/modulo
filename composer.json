@@ -1,0 +1,18 @@
+{
+    "name": "avinesh/modulo",
+    "type": "project",
+    "require": {
+        "phpunit/phpunit": "8.5.24"
+    },
+    "autoload": {
+        "psr-4": {
+            "Modulo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Avinesh",
+            "email": "avinesh@shaw.ca"
+        }
+    ]
+}
