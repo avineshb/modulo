@@ -113,7 +113,7 @@ class ModuloThreeTest extends TestCase
     }
 
     /**
-     * Get a long string.
+     * Get a long binary string.
      *
      * @return string
      */

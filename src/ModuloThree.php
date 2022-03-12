@@ -118,12 +118,12 @@ class ModuloThree
     }
 
     /**
-     * Return binary string value.
+     * Call class constructor with binary string value.
      * Used for unit test.
      *
      * @param string $value Binary string value.
      *
-     * @return string
+     * @return ModuloThree
      */
     public static function fromBinaryString(string $value)
     {
